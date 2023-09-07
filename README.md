@@ -2,7 +2,7 @@
 
 Este repositorio contiene los archivos necesarios para crear y gestionar una base de datos relacionada con la Fórmula 1.
 
-![Alt text](XPB_66767_HiRes-1.jpg)
+![XPB_66767_HiRes-1](https://github.com/chiinwy/f1_database/assets/137778612/7626d85b-b0ed-4f6f-9605-a1bac062ae84)
 
 ## Descripción
 
@@ -12,7 +12,7 @@ La base de datos de la Fórmula 1 contiene información detallada sobre los pilo
 
 La base de datos está diseñada utilizando el lenguaje SQL y se compone de algunas de las siguientes tablas:
 
-![Alt text](erd.png)
+<img width="713" alt="erd" src="https://github.com/chiinwy/f1_database/assets/137778612/22d064e7-4294-4560-8543-410ce3d05792">
 
 - Pilotos: información sobre los pilotos, como nombre, nacionalidad, fecha de nacimiento, etc.
 - Equipos: información sobre los equipos, como nombre, nacionalidad, etc.
